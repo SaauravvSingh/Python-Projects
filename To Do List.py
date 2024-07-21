@@ -29,7 +29,7 @@ my_list = Listbox(my_frame,
 
 my_list.pack()
 
-stuff = ["hello"]
+stuff = ["Hello"]
 for item in stuff:
     my_list.insert(END, item)
 
