@@ -1,3 +1,4 @@
+**
 # 🎓 EduNova Academy & International School
 
 ### Campus Records Management System
@@ -439,4 +440,3 @@ If you find this project useful or interesting, consider giving the repository a
 ## 📜 License
 
 This project is open-source and available for educational and personal use.
-
