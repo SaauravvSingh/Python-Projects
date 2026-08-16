@@ -1,0 +1,45 @@
+{
+    "students": [
+        {
+            "name": "Saurav Singh",
+            "age": 23,
+            "email": "ss1245@gmail.com",
+            "roll_no": "32",
+            "grades": {
+                "maths ": 20.0
+            }
+        },
+        {
+            "name": "manish",
+            "age": 24,
+            "email": "dgfxbvs@gmail.com",
+            "roll_no": "53",
+            "grades": {
+                "science": 64.5
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "binod",
+            "age": 35,
+            "email": "binod12345@gmail.com",
+            "subject": "computer",
+            "emp_id": "1001"
+        },
+        {
+            "name": "satyajeet",
+            "age": 40,
+            "email": "sattu@gmail.com",
+            "subject": "maths",
+            "emp_id": "1003"
+        },
+        {
+            "name": "Agawarl sahab",
+            "age": 40,
+            "email": "agrwala@gmail.com",
+            "subject": "History",
+            "emp_id": "5617"
+        }
+    ]
+}
